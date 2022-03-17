@@ -411,7 +411,7 @@ border-radius: 70px;
 width: 245px;
 height: 43px;
 left: 30px;
-top: 35px;
+top: 39px;
 
 font-family: 'Reptile';
 font-style: normal;
@@ -429,7 +429,7 @@ color: #000000;
 width: 308px;
 height: 145px;
 left: 33px;
-top: 100px;
+top: 105px;
 
 font-family: 'Poppins';
 font-style: normal;
@@ -468,7 +468,9 @@ position: absolute;
 width: 164px;
 height: 164px;
 left: 11px;
-bottom: 190px;
+bottom: 2px;
+top:382px;
+margin:"25px";
 background: linear-gradient(180deg, #DCE9E9 11.21%, rgba(220, 233, 233, 0.15) 42.17%);
 }
 
@@ -483,7 +485,7 @@ position: absolute;
 width: 315px;
 height: 66px;
 left: 30px;
-top: 280px;
+top: 283px;
 
 background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
 box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);

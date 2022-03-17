@@ -16,10 +16,10 @@ const Rectangle4 = () => {
         </p>
         <a class="rect4-btn waves-effect waves-light btn">Get a consultation</a>
         <>
-        <img className='rect4-img1' style={{bottom:'10px'}} src={img1}/>
+        <img className='rect4-img1' style={{top:"560px"}} src={img1}/>
         <img className='rect4-img1'  src={img2}/>
         <img className='rect4-img1' style={{left:'200px'}} src={img3}/>
-        <img className='rect4-img1' style={{bottom:'10px',left:'200px'}} src={img4}/>
+        <img className='rect4-img1' style={{top:'560px',left:'200px'}} src={img4}/>
         </>
         
        
