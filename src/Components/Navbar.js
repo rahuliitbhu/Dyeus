@@ -7,7 +7,7 @@ const Navbar = () => {
 
 <nav className='rectangle'>
     <div className="nav-wrapper">
-      <a href="#" className="dropdown-trigger brand-logo left black-text" data-target="dropdown1" ><i className="material-icons small" >dehaze</i> </a>
+      <a href="#" className="brand-logo left black-text" style={{left:"24px"}} ><i className="material-icons small" >dehaze</i> </a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a className='black-text' href="sass.html"><i className="material-icons small" >shopping_cart</i></a></li>
         <li><a className='black-text' href="sass.html"><i className="material-icons small" >notifications_none</i></a></li>
