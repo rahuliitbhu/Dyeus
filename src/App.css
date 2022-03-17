@@ -2,6 +2,8 @@
 
 .rectangle{
   position: absolute;
+  height:800px;
+  top:2px;
   left: 0px;
   width: 375px;
   background: rgba(255, 255, 255, 0.47);
@@ -28,7 +30,7 @@ background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 2
 width: 183px;
 height: 30px;
 left: 96px;
-top: 146px;
+top: 100px;
 
 font-family: 'Reptile';
 font-style: normal;
