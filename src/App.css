@@ -199,7 +199,7 @@ color: #A5A6F6;
 {
   position: absolute;
 width: 375px;
-height: 800px;
+height: 650px;
 left: 0px;
 top: 2000px;
 
@@ -211,7 +211,7 @@ position: absolute;
 width: 295px;
 height: 33px;
 left: 34px;
-top: 17px;
+top: 39px;
 
 font-family: 'Poppins';
 font-style: normal;
@@ -227,7 +227,7 @@ color: #1B1B50;
   width: 335px;
   height: 86px;
   left: 34px;
-  top: 80px;
+  top: 109px;
   
   font-family: 'Reptile';
   font-style: normal;
@@ -244,7 +244,8 @@ color: #1B1B50;
 width: 308px;
 height: 575px;
 left: 34px;
-top: 300px;
+top: 224px;
+bottom: 42px;
 
 font-family: 'Poppins';
 font-style: normal;
@@ -639,7 +640,7 @@ color: rgba(0, 0, 0, 0.8);
 .contact{
   position: absolute;
 width: 375px;
-height: 390px;
+height: 420px;
 left: 0px;
 top: 7333px;
 
@@ -657,8 +658,8 @@ color: #E9F4FF;
   position: absolute;
   width: 250px;
   height: 18px;
-  left: 20px;
-  top: 300px;
+  left: 15px;
+  top: 298px;
   margin: 5px;
   
   font-family: 'Poppins';
@@ -675,10 +676,10 @@ color: #E9F4FF;
 .input{
 position: absolute;
 width: 216px ;
-height: 40px ;
+height: 42px ;
 left: 20px;
-top: 330px;
-bottom: 5px;
+top: 340px;
+bottom: 61px;
 color: #E7F6FC !important;
 background:  rgba(58, 54, 54, 0.8) !important;
 border: 1px solid #E7F6FC;
@@ -689,9 +690,9 @@ border-radius: 4px;
 .btn-contact{
   position: absolute;
 width: 100px;
-height: 27.48px;
-left:270px;
-top: 348px;
+height: 32.48px;
+left:247px;
+top: 360px;
 font-family: 'Poppins'!important;
 font-style: normal !important;
 font-weight: 600;

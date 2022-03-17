@@ -8,8 +8,8 @@ const Contact = () => {
     <div className='contact'>
         
         
-    <img className='contact-img1'style={{right:"66px",top:"30px"}} src={img1}/>
-    <img className='contact-img1' style={{right:"30px",top:"30px",margin:"2px"}} src={img2}/>
+    <img className='contact-img1'style={{right:"85px",top:"55px"}} src={img1}/>
+    <img className='contact-img1' style={{right:"45px",top:"55px"}} src={img2}/>
     {
 /*
 <ul className="collection">
@@ -24,7 +24,7 @@ const Contact = () => {
     }
 
     
-<ul class="collection " style={{top:"50px" ,border:"0px"}} >
+<ul class="collection " style={{top:"90px" ,border:"0px"}} >
         
 <li  ><div className='collection-item black white-text' >Product <i class="material-icons">keyboard_arrow_right</i></div></li>
         <li  ><div className='collection-item black white-text' >Our Science <i class="material-icons">keyboard_arrow_right</i></div></li>
@@ -44,7 +44,7 @@ const Contact = () => {
       <div className='row'>
       <div className="col-8 input input-field input-outlined">
        
-       <input className='input input-field' style={{margin:"1px",top:"0px",left:"0px",color:"white",height:"36px",width:"210px"}} placeholder="Enter your email..."  type="text" class="validate"/>
+       <input className='input input-field'  placeholder="Enter your email..."  type="text" class="validate"/>
       </div>
       <div className='col-4'>
 
