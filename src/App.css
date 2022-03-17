@@ -1,38 +1,721 @@
-.App {
-  text-align: center;
+
+
+.rectangle{
+  position: absolute;
+  left: 0px;
+  width: 375px;
+  background: rgba(255, 255, 255, 0.47);
+box-shadow: 0px 4px 14px rgba(24, 160, 251, 0.12);
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 0px 0px 14px 14px;
+}
+.rectangle1{
+  position: absolute;
+width: 375px;
+height: 1725px;
+left: 0px;
+top: 70px;
+
+background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);
+
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.rect1-txt1{
+  position: absolute;
+width: 183px;
+height: 30px;
+left: 96px;
+top: 146px;
+
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 30px;
+
+color: #1B1B50;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.rect1-txt2{
+  position: absolute;
+width: 290px;
+height: 23px;
+left: 42px;
+top: 213px;
+
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+text-align: center;
+
+color: #1B1B50;
+}
+
+.rect1-txt3{
+  position: absolute;
+width: 308px;
+height: 75px;
+left: 33px;
+top: 273px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 179%;
+/* or 25px */
+
+
+color: #000000;
+}
+
+.rect1-txt4{
+  position: absolute;
+width: 177px;
+height: 33px;
+left: 99px;
+top: 406px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #1B1B50;
+}
+
+
+.rect1-txt5{
+  position: absolute;
+width: 303px;
+height: 132px;
+left: 35px;
+top: 476px;
+
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 134.8%;
+/* or 44px */
+
+text-align: center;
+
+color: #1B1B50;
+
+}
+
+.rect1-txt6{
+  position: absolute;
+width: 308px;
+height: 232px;
+left: 33px;
+top: 645px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 179%;
+/* or 29px */
+
+text-align: center;
+
+color: #1B1B50;
+}
+
+.rect1-txt7{
+  position: absolute;
+width: 309px;
+height: 493px;
+left: 32px;
+top: 1005px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 179%;
+/* or 29px */
+
+text-align: center;
+
+color: #1B1B50;
+}
+
+.rect1-txt8
+{
+  position: absolute;
+width: 308px;
+height: 116px;
+left: 33px;
+top: 1564px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 179%;
+/* or 29px */
+
+text-align: center;
+
+color: #1B1B50;
+
+}
+
+.img4{
+  height: 170px !important;
+  width: 170px !important;
+  position: relative !important;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+color: #A5A6F6;
+
+/* Iris/60 */
+
+}
+
+
+
+/**************************************Rectangle-2******************************************************/
+
+
+.rectangle2
+{
+  position: absolute;
+width: 375px;
+height: 800px;
+left: 0px;
+top: 2000px;
+
+background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
+}
+.rect2-txt1{
+  
+position: absolute;
+width: 295px;
+height: 33px;
+left: 34px;
+top: 17px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #1B1B50;
+}
+.rect2-txt2{position: absolute;
+  width: 335px;
+  height: 86px;
+  left: 34px;
+  top: 80px;
+  
+  font-family: 'Reptile';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  /* or 43px */
+  
+  
+  color: #1B1B50;}
+
+  .rect2-txt3{
+    position: absolute;
+width: 308px;
+height: 575px;
+left: 34px;
+top: 300px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 180%;
+/* or 25px */
+
+
+color: #1B1B50;
+
   }
+
+
+
+  /*************************************************Rectangle3**************************************************/
+
+  .rectangle3{
+    position: absolute;
+width: 375px;
+height: 600px;
+left: 0px;
+top: 3000px;
+
+background: #DCE9E9;
+  }
+  
+
+  .rect3-txt1{
+    position: absolute;
+width: 335px;
+height: 66px;
+left: 33px;
+top: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+
+color: #1B1B50;
+  }
+
+  .rect3-txt2{
+    position: absolute;
+width: 329px;
+height: 86px;
+left: 33px;
+top: 70px;
+
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 134.8%;
+/* or 43px */
+
+
+color: #000000;
+  }
+
+  .rect3-txt3{
+    position: absolute;
+width: 308px;
+height: 145px;
+left: 33px;
+top: 201px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%;
+justify-content: center;
+/* or 29px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+  }
+
+  .rect3-txt4{
+    position: absolute;
+width: 237px;
+height: 30px;
+left: 39px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8605px;
+line-height: 30px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+  }
+
+  .rect3-txt5{
+    position: absolute;
+width: 335px;
+height: 33px;
+left: 20px;
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+  }
+
+.rect3-img1{
+  position: absolute;
+  top:350px;
+  height: 562px;
+  width: 375px;
+  background: linear-gradient(180deg, #DCE9E9 11.21%, rgba(220, 233, 233, 0.15) 42.17%);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+.rect3-btn{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 45px;
+
+position: absolute;
+width: 315px;
+height: 66px;
+left: 30px;
+top: 350px;
+
+background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+border-radius: 70px;
 }
 
-.App-link {
-  color: #61dafb;
+/***********************************************Rectangle4******************************************************/
+
+.rectangle4{
+  position: absolute;
+  width: 375px;
+  height: 800px;
+  left: 0px;
+  top: 4000px;
+  
+  background: linear-gradient(180deg, #FFF6FB 0%, #FFFFFF 100%);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.rect4-txt1{
+  position: absolute;
+width: 245px;
+height: 43px;
+left: 30px;
+top: 35px;
+
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 134.8%;
+/* or 43px */
+
+
+color: #000000;
+}
+
+.rect4-txt2{
+  position: absolute;
+width: 308px;
+height: 145px;
+left: 33px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%;
+/* or 29px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.rect4-txt3{
+  position: static;
+width: 277px;
+height: 30px;
+left: 19px;
+top: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8605px;
+line-height: 30px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+
+.rect4-img1{
+position: absolute;
+width: 164px;
+height: 164px;
+left: 11px;
+bottom: 190px;
+background: linear-gradient(180deg, #DCE9E9 11.21%, rgba(220, 233, 233, 0.15) 42.17%);
+}
+
+.rect4-btn{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 45px;
+
+position: absolute;
+width: 315px;
+height: 66px;
+left: 30px;
+top: 280px;
+
+background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+border-radius: 70px;
+}
+
+
+/*******************************************Rectangle5*************************************************/
+.rectangle5{
+  position: absolute;
+width: 375px;
+height: 800px;
+left: 0px;
+top: 4850px;
+
+background: linear-gradient(176.88deg, #F3B8BC 2.58%, #FFDAD4 93.07%);
+}
+
+.rect5-img1{
+  position: absolute;
+width: 375px;
+height: 375px;
+left: 0px;
+bottom: 0px;
+}
+.rect5-btn{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 45px;
+
+position: absolute;
+width: 315px;
+height: 66px;
+left: 33px;
+top: 250px;
+
+background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+border-radius: 70px;
+}
+
+/**********************************************Rectangle6************************************************/
+.rectangle6{
+  position: absolute;
+  width: 375px;
+  height: 421px;
+  left: 0px;
+  top: 6340px;
+  
+  background: linear-gradient(270deg, #DADAE4 0.25%, #EEEEF0 24.33%, #F8F8F8 52.08%, #FEFEFE 100%);
+}
+
+.rect6-img1{
+  position: absolute;
+  width: 375px;
+  height: 250px;
+  left: 0px;
+  top: 420px;
+  
+bottom: 0px;
+}
+
+.rect6-btn{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 45px;
+
+position: absolute;
+width: 315px;
+height: 66px;
+left: 30px;
+top: 351px;
+
+background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+border-radius: 70px;
+}
+
+
+/*******************************************Rectangle7*********************************************************/
+.rectangle7{
+  position: absolute;
+width: 375px;
+height: 646px;
+left: 0px;
+top: 5670px;
+
+background: #F66E6E;
+}
+
+.rect7-img1{
+  position: absolute;
+  width: 387px;
+  height: 290px;
+  left: -12px;
+  top: 150px;
+  
+  
+bottom: 0px;
+}
+
+.rect7-btn{
+  position: absolute;
+width: 295px;
+height: 43px;
+left: 44px;
+bottom: 50px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+
+/* identical to box height, or 29px */
+background: #000000;
+border-radius: 27px;
+}
+
+/***********************************************Retangle8***************************************************/
+
+.rectangle8{
+  position: absolute;
+  width: 375px;
+  height: 373px;
+  left: 0px;
+  top: 6995px;
+  
+  background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+}
+.rect8-txt1{
+  position: absolute;
+width: 274px;
+height: 220px;
+left: 47px;
+top: 100px;
+
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 134.8%;
+/* or 44px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+
+
+/***************************************************Contact****************************************/
+.contact{
+  position: absolute;
+width: 375px;
+height: 390px;
+left: 0px;
+top: 7333px;
+
+background: #050506;
+}
+
+.contact-img1{
+  position: absolute;
+right: 0px;
+
+color: #E9F4FF;
+}
+
+.contact-txt{
+  position: absolute;
+  width: 250px;
+  height: 18px;
+  left: 20px;
+  top: 300px;
+  margin: 5px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15.94737px;
+  line-height: 206.5%;
+  /* or 18px */
+  
+  
+  color: #FFFFFF;
+}
+
+.input{
+position: absolute;
+width: 216px ;
+height: 40px ;
+left: 20px;
+top: 330px;
+bottom: 5px;
+color: #E7F6FC !important;
+background:  rgba(58, 54, 54, 0.8) !important;
+border: 1px solid #E7F6FC;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+.btn-contact{
+  position: absolute;
+width: 100px;
+height: 27.48px;
+left:270px;
+top: 348px;
+font-family: 'Poppins'!important;
+font-style: normal !important;
+font-weight: 600;
+font-size: 8.94737px;
+
+background: #D6F4FB;
+border: 1.2782px solid #E9F4FF;
+box-sizing: border-box;
+border-radius: 17.2556px;
+}
+.p{
+  position: absolute;
+width: 38.98px !important;
+height: 18.53px !important;
+left: 35.32px !important;
+top: 0px !important;
+bottom: 2px !important;
+margin-bottom: 1px ;
+
+font-family: 'Poppins' !important;
+font-style: normal !important;
+font-weight: 600;
+font-size: 8.94737px;
+line-height: 206.5%;
+/* identical to box height, or 18px */
+
+
+color: #1B1B50;
 }
