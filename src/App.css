@@ -2,7 +2,7 @@
 
 .rectangle{
   position: absolute;
-  height:800px;
+  height:1670px;
   top:2px;
   left: 0px;
   width: 375px;
@@ -30,7 +30,7 @@ background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 2
 width: 183px;
 height: 30px;
 left: 96px;
-top: 100px;
+top: 43px;
 
 font-family: 'Reptile';
 font-style: normal;
@@ -46,7 +46,7 @@ color: #1B1B50;
 width: 290px;
 height: 23px;
 left: 42px;
-top: 213px;
+top: 110px;
 
 font-family: 'Quicksand';
 font-style: normal;
@@ -65,7 +65,7 @@ color: #1B1B50;
 width: 308px;
 height: 75px;
 left: 33px;
-top: 273px;
+top: 170px;
 
 font-family: 'Poppins';
 font-style: normal;
@@ -83,7 +83,7 @@ color: #000000;
 width: 177px;
 height: 33px;
 left: 99px;
-top: 406px;
+top: 303px;
 
 font-family: 'Poppins';
 font-style: normal;
@@ -102,7 +102,7 @@ color: #1B1B50;
 width: 303px;
 height: 132px;
 left: 35px;
-top: 476px;
+top: 373px;
 
 font-family: 'Reptile';
 font-style: normal;
@@ -122,7 +122,7 @@ color: #1B1B50;
 width: 308px;
 height: 232px;
 left: 33px;
-top: 645px;
+top: 542px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -141,7 +141,7 @@ color: #1B1B50;
 width: 309px;
 height: 493px;
 left: 32px;
-top: 1005px;
+top: 902px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -161,7 +161,7 @@ color: #1B1B50;
 width: 308px;
 height: 116px;
 left: 33px;
-top: 1564px;
+top: 1461px;
 
 font-family: 'DM Sans';
 font-style: normal;
