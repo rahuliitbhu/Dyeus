@@ -2,7 +2,7 @@ import React from 'react'
 import img1 from '../Images/Vector.png'
 import img2 from '../Images/Vector1.png'
 import img3 from '../Images/Vectorstart.png'
-import img4 from '../Images/Shapephone.png'
+import img4 from '../Images/Line 7.png'
 
 
 const Rectangle1 = () => {
@@ -18,6 +18,7 @@ const Rectangle1 = () => {
             <p className='rect1-txt3'>
             Diana empowers you to understand how your body works so you can look and feel your best. 
             </p>
+            <img className='line1 ' src={img4} />
             <p className='rect1-txt4'>
             Our Philosophy </p>
 

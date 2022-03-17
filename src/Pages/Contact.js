@@ -1,7 +1,7 @@
 import React from 'react'
 import img1 from '../Images/facebook.png'
 import img2 from '../Images/twitter.png'
-
+import img4 from '../Images/Line 7.png'
 const Contact = () => {
   return (
     <div className='container'>
@@ -10,18 +10,7 @@ const Contact = () => {
         
     <img className='contact-img1'style={{right:"85px",top:"55px"}} src={img1}/>
     <img className='contact-img1' style={{right:"45px",top:"55px"}} src={img2}/>
-    {
-/*
-<ul className="collection">
-        
-        <li  ><div className='collection-item' >Product <i class="material-icons">keyboard_arrow_right</i></div></li>
-        <li  ><div className='collection-item' >Our Science <i class="material-icons">keyboard_arrow_right</i></div></li>
-        <li  ><div className='collection-item'>Vision {`&`} Mission <i class="material-icons">keyboard_arrow_right</i></div></li>
-        <li  ><div className='collection-item'>About Us <i class="material-icons">keyboard_arrow_right</i></div></li>
-        
-      </ul>
-*/
-    }
+
 
     
 <ul class="collection " style={{top:"90px" ,border:"0px"}} >
@@ -40,6 +29,7 @@ const Contact = () => {
       <p className='contact-txt ' >
       Subscribe to our Newsletter
       </p>
+      <img className='line2 ' src={img4} />
     
       <div className='row'>
       <div className="col-8 input input-field input-outlined">

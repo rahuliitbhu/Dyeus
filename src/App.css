@@ -206,6 +206,16 @@ top: 2000px;
 
 background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
 }
+.line1{
+  position: absolute;
+  width: 297px;
+  height: 0px;
+  left: 46px;
+  top: 274px;
+  
+  border: 0.1px solid #000000;
+}
+
 .rect2-txt1{
   
 position: absolute;
@@ -649,6 +659,15 @@ top: 7400px;
 
 background: #050506;
 }
+.line2{
+  position: absolute;
+width: 306px;
+height: 0px;
+left: 15px;
+top: 310px;
+
+border: 0.1px solid #E3F4FF;
+}
 
 .contact-img1{
   position: absolute;
@@ -663,12 +682,12 @@ color: #E9F4FF;
   height: 18px;
   left: 15px;
   top: 298px;
-  margin: 5px;
+  margin-top: 17px;
   
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 300;
-  font-size: 15.94737px;
+  font-size: 12.94737px;
   line-height: 206.5%;
   /* or 18px */
   
